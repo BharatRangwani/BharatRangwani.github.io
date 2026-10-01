@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#112f50"/>
+    <stop offset="1" stop-color="#0a1f37"/>
+  </linearGradient>
+  <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0">
+    <stop offset="0" stop-color="#2b6da9"/>
+    <stop offset="1" stop-color="#e4b667"/>
+  </linearGradient>
+</defs>
+<rect width="1000" height="620" rx="26" fill="url(#bg)"/>
+<text x="44" y="48" fill="#d9e6f3" font-family="Arial" font-size="22" font-weight="700">Management Overview</text>
+<text x="44" y="78" fill="#7890a7" font-family="Arial" font-size="14">FY 2026 · Consolidated</text>
+<rect x="44" y="110" width="280" height="100" rx="18" fill="#163a61"/>
+<rect x="344" y="110" width="280" height="100" rx="18" fill="#163a61"/>
+<rect x="644" y="110" width="312" height="100" rx="18" fill="#163a61"/>
+<text x="66" y="142" fill="#7890a7" font-family="Arial" font-size="13">Revenue</text>
+<text x="66" y="180" fill="#ffffff" font-family="Arial" font-size="30" font-weight="700">₹12.6M</text>
+<text x="366" y="142" fill="#7890a7" font-family="Arial" font-size="13">EBITDA</text>
+<text x="366" y="180" fill="#ffffff" font-family="Arial" font-size="30" font-weight="700">₹2.8M</text>
+<text x="666" y="142" fill="#7890a7" font-family="Arial" font-size="13">Closing Cash</text>
+<text x="666" y="180" fill="#ffffff" font-family="Arial" font-size="30" font-weight="700">₹4.1M</text>
+<rect x="44" y="236" width="620" height="330" rx="18" fill="#102a47"/>
+<text x="66" y="272" fill="#b6c8da" font-family="Arial" font-size="14">Monthly Performance</text>
+<line x1="70" y1="510" x2="630" y2="510" stroke="#36526b" stroke-width="1"/>
+<g fill="url(#bar)">
+  <rect x="80" y="438" width="28" height="72" rx="5"/>
+  <rect x="125" y="414" width="28" height="96" rx="5"/>
+  <rect x="170" y="425" width="28" height="85" rx="5"/>
+  <rect x="215" y="382" width="28" height="128" rx="5"/>
+  <rect x="260" y="362" width="28" height="148" rx="5"/>
+  <rect x="305" y="335" width="28" height="175" rx="5"/>
+  <rect x="350" y="348" width="28" height="162" rx="5"/>
+  <rect x="395" y="310" width="28" height="200" rx="5"/>
+  <rect x="440" y="282" width="28" height="228" rx="5"/>
+  <rect x="485" y="255" width="28" height="255" rx="5"/>
+  <rect x="530" y="268" width="28" height="242" rx="5"/>
+  <rect x="575" y="228" width="28" height="282" rx="5"/>
+</g>
+<polyline points="94,410 139,395 184,402 229,366 274,350 319,327 364,338 409,298 454,275 499,248 544,258 589,220" fill="none" stroke="#f0c982" stroke-width="4"/>
+<g fill="#f0c982">
+  <circle cx="94" cy="410" r="5"/><circle cx="139" cy="395" r="5"/><circle cx="184" cy="402" r="5"/><circle cx="229" cy="366" r="5"/>
+  <circle cx="274" cy="350" r="5"/><circle cx="319" cy="327" r="5"/><circle cx="364" cy="338" r="5"/><circle cx="409" cy="298" r="5"/>
+  <circle cx="454" cy="275" r="5"/><circle cx="499" cy="248" r="5"/><circle cx="544" cy="258" r="5"/><circle cx="589" cy="220" r="5"/>
+</g>
+<rect x="690" y="236" width="266" height="155" rx="18" fill="#102a47"/>
+<text x="714" y="270" fill="#b6c8da" font-family="Arial" font-size="14">Collections</text>
+<circle cx="800" cy="330" r="55" fill="none" stroke="#284965" stroke-width="22"/>
+<path d="M800 275 A55 55 0 1 1 757 364" fill="none" stroke="#e0ad58" stroke-width="22" stroke-linecap="round"/>
+<text x="785" y="337" fill="#fff" font-family="Arial" font-size="22" font-weight="700">81%</text>
+<rect x="690" y="411" width="266" height="155" rx="18" fill="#102a47"/>
+<text x="714" y="445" fill="#b6c8da" font-family="Arial" font-size="14">Reporting Automation</text>
+<rect x="714" y="475" width="218" height="12" rx="6" fill="#203f59"/>
+<rect x="714" y="475" width="194" height="12" rx="6" fill="#d8a85f"/>
+<text x="714" y="515" fill="#7890a7" font-family="Arial" font-size="13">92% automated</text>
+</svg>
