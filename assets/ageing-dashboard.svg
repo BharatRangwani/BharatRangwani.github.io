@@ -1,16 +1,124 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460">
-<rect width="800" height="460" rx="24" fill="#0f2a48"/>
-<text x="38" y="48" fill="#d9e6f3" font-family="Arial" font-size="21" font-weight="700">Receivables Ageing</text>
-<text x="38" y="76" fill="#7890a7" font-family="Arial" font-size="13">Outstanding by ageing bucket</text>
-<g font-family="Arial">
-<rect x="38" y="108" width="166" height="86" rx="15" fill="#173a60"/><text x="56" y="137" fill="#7e95ab" font-size="12">0–30 days</text><text x="56" y="174" fill="#fff" font-size="26" font-weight="700">42%</text>
-<rect x="220" y="108" width="166" height="86" rx="15" fill="#173a60"/><text x="238" y="137" fill="#7e95ab" font-size="12">31–60 days</text><text x="238" y="174" fill="#fff" font-size="26" font-weight="700">27%</text>
-<rect x="402" y="108" width="166" height="86" rx="15" fill="#173a60"/><text x="420" y="137" fill="#7e95ab" font-size="12">61–90 days</text><text x="420" y="174" fill="#fff" font-size="26" font-weight="700">18%</text>
-<rect x="584" y="108" width="178" height="86" rx="15" fill="#173a60"/><text x="602" y="137" fill="#7e95ab" font-size="12">90+ days</text><text x="602" y="174" fill="#fff" font-size="26" font-weight="700">13%</text>
-</g>
-<text x="38" y="242" fill="#b8c8d7" font-family="Arial" font-size="14">Top overdue exposure</text>
-<rect x="38" y="268" width="682" height="18" rx="9" fill="#1c405d"/><rect x="38" y="268" width="602" height="18" rx="9" fill="#d8a85f"/>
-<rect x="38" y="306" width="682" height="18" rx="9" fill="#1c405d"/><rect x="38" y="306" width="478" height="18" rx="9" fill="#c38e45"/>
-<rect x="38" y="344" width="682" height="18" rx="9" fill="#1c405d"/><rect x="38" y="344" width="356" height="18" rx="9" fill="#5f86ab"/>
-<rect x="38" y="382" width="682" height="18" rx="9" fill="#1c405d"/><rect x="38" y="382" width="234" height="18" rx="9" fill="#426d96"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 740" role="img">
+<title>Receivables &amp; payables ageing — illustrative finance report</title>
+<desc>Identify overdue exposure, prioritise collections and plan payment runs.. All values are illustrative, not client results.</desc>
+<g font-family="Arial, sans-serif">
+<rect x="0" y="0" width="1200" height="740" rx="0" fill="#fff" stroke="none"/>
+<rect x="0" y="0" width="1200" height="7" rx="0" fill="#213b3b" stroke="none"/>
+<text x="36" y="42" font-size="12" fill="#213b3b" font-weight="700" text-anchor="start">BR / FINANCE INTELLIGENCE</text>
+<text x="1164" y="42" font-size="11" fill="#64716e" font-weight="400" text-anchor="end">ILLUSTRATIVE DATA  /  SEP 2026</text>
+<line x1="36" y1="60" x2="1164" y2="60" stroke="#e3e7e1" stroke-width="1" stroke-dasharray=""/>
+<text x="36" y="98" font-size="27" fill="#213b3b" font-weight="600" text-anchor="start">Receivables &amp; payables ageing</text>
+<text x="36" y="123" font-size="12" fill="#64716e" font-weight="400" text-anchor="start">Identify overdue exposure, prioritise collections and plan payment runs.</text>
+<rect x="958" y="78" width="206" height="34" rx="3" fill="#f5f6f2" stroke="#e3e7e1"/>
+<text x="1061" y="100" font-size="12" fill="#213b3b" font-weight="400" text-anchor="middle">Sep 2026  ·  INR millions</text>
+<rect x="36" y="148" width="264" height="101" rx="0" fill="#f5f6f2" stroke="none"/>
+<text x="54" y="174" font-size="11" fill="#64716e" font-weight="600" text-anchor="start">TOTAL RECEIVABLES</text>
+<text x="54" y="210" font-size="30" fill="#213b3b" font-weight="600" text-anchor="start">₹8.4m</text>
+<text x="54" y="233" font-size="11" fill="#64716e" font-weight="400" text-anchor="start">Open customer balances</text>
+<rect x="324" y="148" width="264" height="101" rx="0" fill="#f5f6f2" stroke="none"/>
+<text x="342" y="174" font-size="11" fill="#64716e" font-weight="600" text-anchor="start">OVERDUE RECEIVABLES</text>
+<text x="342" y="210" font-size="30" fill="#213b3b" font-weight="600" text-anchor="start">₹4.2m</text>
+<text x="342" y="233" font-size="11" fill="#a54f45" font-weight="400" text-anchor="start">50.0% of total receivables</text>
+<rect x="612" y="148" width="264" height="101" rx="0" fill="#f5f6f2" stroke="none"/>
+<text x="630" y="174" font-size="11" fill="#64716e" font-weight="600" text-anchor="start">TOTAL PAYABLES</text>
+<text x="630" y="210" font-size="30" fill="#213b3b" font-weight="600" text-anchor="start">₹5.1m</text>
+<text x="630" y="233" font-size="11" fill="#64716e" font-weight="400" text-anchor="start">Open supplier balances</text>
+<rect x="900" y="148" width="264" height="101" rx="0" fill="#f5f6f2" stroke="none"/>
+<text x="918" y="174" font-size="11" fill="#64716e" font-weight="600" text-anchor="start">NET AR / AP</text>
+<text x="918" y="210" font-size="30" fill="#213b3b" font-weight="600" text-anchor="start">₹3.3m</text>
+<text x="918" y="233" font-size="11" fill="#386c5b" font-weight="400" text-anchor="start">Receivables less payables</text>
+<text x="36" y="284" font-size="15" fill="#213b3b" font-weight="600" text-anchor="start">Ageing by due date</text>
+<text x="36" y="306" font-size="11" fill="#64716e" font-weight="400" text-anchor="start">INR millions · balance as at 30 Sep 2026</text>
+<rect x="713" y="275" width="10" height="10" rx="0" fill="#213b3b" stroke="none"/>
+<text x="730" y="284" font-size="11" fill="#64716e" font-weight="400" text-anchor="start">Receivables</text>
+<rect x="840" y="275" width="10" height="10" rx="0" fill="#8d683e" stroke="none"/>
+<text x="857" y="284" font-size="11" fill="#64716e" font-weight="400" text-anchor="start">Payables</text>
+<line x1="70" y1="464" x2="714" y2="464" stroke="#e3e7e1" stroke-width="1" stroke-dasharray=""/>
+<text x="58" y="468" font-size="10" fill="#64716e" font-weight="400" text-anchor="end">0</text>
+<line x1="70" y1="439" x2="714" y2="439" stroke="#e3e7e1" stroke-width="1" stroke-dasharray=""/>
+<text x="58" y="443" font-size="10" fill="#64716e" font-weight="400" text-anchor="end">1</text>
+<line x1="70" y1="414" x2="714" y2="414" stroke="#e3e7e1" stroke-width="1" stroke-dasharray=""/>
+<text x="58" y="418" font-size="10" fill="#64716e" font-weight="400" text-anchor="end">2</text>
+<line x1="70" y1="389" x2="714" y2="389" stroke="#e3e7e1" stroke-width="1" stroke-dasharray=""/>
+<text x="58" y="393" font-size="10" fill="#64716e" font-weight="400" text-anchor="end">3</text>
+<line x1="70" y1="364" x2="714" y2="364" stroke="#e3e7e1" stroke-width="1" stroke-dasharray=""/>
+<text x="58" y="368" font-size="10" fill="#64716e" font-weight="400" text-anchor="end">4</text>
+<line x1="70" y1="339" x2="714" y2="339" stroke="#e3e7e1" stroke-width="1" stroke-dasharray=""/>
+<text x="58" y="343" font-size="10" fill="#64716e" font-weight="400" text-anchor="end">5</text>
+<rect x="103" y="359.0" width="23" height="105.0" rx="0" fill="#213b3b" stroke="none"/>
+<rect x="131" y="389" width="23" height="75" rx="0" fill="#8d683e" stroke="none"/>
+<text x="114" y="350.0" font-size="11" fill="#213b3b" font-weight="400" text-anchor="middle">4.2</text>
+<text x="142" y="380" font-size="11" fill="#8d683e" font-weight="400" text-anchor="middle">3.0</text>
+<text x="126" y="487" font-size="11" fill="#64716e" font-weight="400" text-anchor="middle">Current</text>
+<rect x="228" y="419.0" width="23" height="45.0" rx="0" fill="#213b3b" stroke="none"/>
+<rect x="256" y="439" width="23" height="25" rx="0" fill="#8d683e" stroke="none"/>
+<text x="239" y="410.0" font-size="11" fill="#213b3b" font-weight="400" text-anchor="middle">1.8</text>
+<text x="267" y="430" font-size="11" fill="#8d683e" font-weight="400" text-anchor="middle">1.0</text>
+<text x="251" y="487" font-size="11" fill="#64716e" font-weight="400" text-anchor="middle">1–30 days</text>
+<rect x="353" y="434.0" width="23" height="30.0" rx="0" fill="#213b3b" stroke="none"/>
+<rect x="381" y="449.0" width="23" height="15.0" rx="0" fill="#8d683e" stroke="none"/>
+<text x="364" y="425.0" font-size="11" fill="#213b3b" font-weight="400" text-anchor="middle">1.2</text>
+<text x="392" y="440.0" font-size="11" fill="#8d683e" font-weight="400" text-anchor="middle">0.6</text>
+<text x="376" y="487" font-size="11" fill="#64716e" font-weight="400" text-anchor="middle">31–60 days</text>
+<rect x="478" y="446.5" width="23" height="17.5" rx="0" fill="#213b3b" stroke="none"/>
+<rect x="506" y="456.5" width="23" height="7.5" rx="0" fill="#8d683e" stroke="none"/>
+<text x="489" y="437.5" font-size="11" fill="#213b3b" font-weight="400" text-anchor="middle">0.7</text>
+<text x="517" y="447.5" font-size="11" fill="#8d683e" font-weight="400" text-anchor="middle">0.3</text>
+<text x="501" y="487" font-size="11" fill="#64716e" font-weight="400" text-anchor="middle">61–90 days</text>
+<rect x="603" y="451.5" width="23" height="12.5" rx="0" fill="#213b3b" stroke="none"/>
+<rect x="631" y="459.0" width="23" height="5.0" rx="0" fill="#8d683e" stroke="none"/>
+<text x="614" y="442.5" font-size="11" fill="#213b3b" font-weight="400" text-anchor="middle">0.5</text>
+<text x="642" y="450.0" font-size="11" fill="#8d683e" font-weight="400" text-anchor="middle">0.2</text>
+<text x="626" y="487" font-size="11" fill="#64716e" font-weight="400" text-anchor="middle">90+ days</text>
+<rect x="767" y="314" width="397" height="185" rx="0" fill="#f5f6f2" stroke="none"/>
+<text x="788" y="340" font-size="11" fill="#213b3b" font-weight="600" text-anchor="start">COLLECTION PRIORITIES</text>
+<text x="788" y="371" font-size="18" fill="#213b3b" font-weight="600" text-anchor="start">₹1.2m outstanding beyond 60 days</text>
+<text x="788" y="399" font-size="12" fill="#213b3b" font-weight="400" text-anchor="start">Confirm disputed invoices and payment commitments.</text>
+<text x="788" y="431" font-size="12" fill="#213b3b" font-weight="400" text-anchor="start">Separate follow-up queues by ageing and balance.</text>
+<text x="788" y="465" font-size="12" fill="#213b3b" font-weight="400" text-anchor="start">Review supplier due dates before the next payment run.</text>
+<text x="36" y="515" font-size="15" fill="#213b3b" font-weight="600" text-anchor="start">Priority receivables · sample customer balances</text>
+<rect x="36" y="533" width="1128" height="29" rx="0" fill="#f5f6f2" stroke="none"/>
+<text x="48" y="552" font-size="11" fill="#64716e" font-weight="600" text-anchor="start">Customer</text>
+<text x="451" y="552" font-size="11" fill="#64716e" font-weight="600" text-anchor="end">Current</text>
+<text x="588" y="552" font-size="11" fill="#64716e" font-weight="600" text-anchor="end">1–30</text>
+<text x="725" y="552" font-size="11" fill="#64716e" font-weight="600" text-anchor="end">31–60</text>
+<text x="862" y="552" font-size="11" fill="#64716e" font-weight="600" text-anchor="end">61–90</text>
+<text x="999" y="552" font-size="11" fill="#64716e" font-weight="600" text-anchor="end">90+</text>
+<text x="1152" y="552" font-size="11" fill="#64716e" font-weight="600" text-anchor="end">Total</text>
+<text x="48" y="584" font-size="12" fill="#213b3b" font-weight="400" text-anchor="start">Customer A</text>
+<text x="451" y="584" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">0.80</text>
+<text x="588" y="584" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">0.35</text>
+<text x="725" y="584" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">0.20</text>
+<text x="862" y="584" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">0.30</text>
+<text x="999" y="584" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">0.25</text>
+<text x="1152" y="584" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">1.90</text>
+<line x1="36" y1="597" x2="1164" y2="597" stroke="#e3e7e1" stroke-width="1" stroke-dasharray=""/>
+<text x="48" y="612" font-size="12" fill="#213b3b" font-weight="400" text-anchor="start">Customer B</text>
+<text x="451" y="612" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">0.60</text>
+<text x="588" y="612" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">0.30</text>
+<text x="725" y="612" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">0.25</text>
+<text x="862" y="612" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">0.20</text>
+<text x="999" y="612" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">0.15</text>
+<text x="1152" y="612" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">1.50</text>
+<line x1="36" y1="625" x2="1164" y2="625" stroke="#e3e7e1" stroke-width="1" stroke-dasharray=""/>
+<text x="48" y="640" font-size="12" fill="#213b3b" font-weight="400" text-anchor="start">Other customers</text>
+<text x="451" y="640" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">2.80</text>
+<text x="588" y="640" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">1.15</text>
+<text x="725" y="640" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">0.75</text>
+<text x="862" y="640" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">0.20</text>
+<text x="999" y="640" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">0.10</text>
+<text x="1152" y="640" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">5.00</text>
+<line x1="36" y1="653" x2="1164" y2="653" stroke="#e3e7e1" stroke-width="1" stroke-dasharray=""/>
+<rect x="36" y="647" width="1128" height="34" rx="0" fill="#f5f6f2" stroke="none"/>
+<text x="48" y="668" font-size="12" fill="#213b3b" font-weight="600" text-anchor="start">Total receivables</text>
+<text x="451" y="668" font-size="12" fill="#213b3b" font-weight="600" text-anchor="end">4.20</text>
+<text x="588" y="668" font-size="12" fill="#213b3b" font-weight="600" text-anchor="end">1.80</text>
+<text x="725" y="668" font-size="12" fill="#213b3b" font-weight="600" text-anchor="end">1.20</text>
+<text x="862" y="668" font-size="12" fill="#213b3b" font-weight="600" text-anchor="end">0.70</text>
+<text x="999" y="668" font-size="12" fill="#213b3b" font-weight="600" text-anchor="end">0.50</text>
+<text x="1152" y="668" font-size="12" fill="#213b3b" font-weight="600" text-anchor="end">8.40</text>
+<line x1="36" y1="681" x2="1164" y2="681" stroke="#e3e7e1" stroke-width="1" stroke-dasharray=""/>
+<line x1="36" y1="694" x2="1164" y2="694" stroke="#e3e7e1" stroke-width="1" stroke-dasharray=""/>
+<text x="36" y="719" font-size="11" fill="#64716e" font-weight="400" text-anchor="start">Basis: ageing from invoice due date · Open balances only · Figures include all sample customers</text>
+<text x="1164" y="719" font-size="10" fill="#64716e" font-weight="400" text-anchor="end">BHARAT RANGWANI  /  SAMPLE REPORT</text>
+</g></svg>

@@ -1,18 +1,99 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460">
-<rect width="800" height="460" rx="24" fill="#0f2a48"/>
-<text x="38" y="48" fill="#d9e6f3" font-family="Arial" font-size="21" font-weight="700">Multi-Entity MIS</text>
-<text x="38" y="76" fill="#7890a7" font-family="Arial" font-size="13">Entity performance and consolidated view</text>
-<g font-family="Arial">
-<rect x="38" y="112" width="220" height="95" rx="15" fill="#173a60"/><text x="58" y="142" fill="#7e95ab" font-size="12">Entity A</text><text x="58" y="181" fill="#fff" font-size="27" font-weight="700">₹4.8M</text>
-<rect x="290" y="112" width="220" height="95" rx="15" fill="#173a60"/><text x="310" y="142" fill="#7e95ab" font-size="12">Entity B</text><text x="310" y="181" fill="#fff" font-size="27" font-weight="700">₹3.1M</text>
-<rect x="542" y="112" width="220" height="95" rx="15" fill="#173a60"/><text x="562" y="142" fill="#7e95ab" font-size="12">Entity C</text><text x="562" y="181" fill="#fff" font-size="27" font-weight="700">₹2.4M</text>
-</g>
-<text x="38" y="256" fill="#b8c8d7" font-family="Arial" font-size="14">Revenue mix</text>
-<rect x="38" y="280" width="724" height="28" rx="14" fill="#183651"/>
-<rect x="38" y="280" width="345" height="28" rx="14" fill="#2f75ad"/>
-<rect x="383" y="280" width="225" height="28" fill="#6a93b4"/>
-<rect x="608" y="280" width="154" height="28" rx="14" fill="#d8a85f"/>
-<text x="38" y="360" fill="#7890a7" font-family="Arial" font-size="12">Consolidated operating margin</text>
-<polyline points="42,402 122,390 202,396 282,366 362,372 442,346 522,353 602,325 682,314 762,286" fill="none" stroke="#e7bd76" stroke-width="4"/>
-<line x1="38" y1="420" x2="762" y2="420" stroke="#2b4b66" stroke-width="1"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 740" role="img">
+<title>Multi-entity management report — illustrative finance report</title>
+<desc>Entity performance, intercompany eliminations and a reconciled group view.. All values are illustrative, not client results.</desc>
+<g font-family="Arial, sans-serif">
+<rect x="0" y="0" width="1200" height="740" rx="0" fill="#fff" stroke="none"/>
+<rect x="0" y="0" width="1200" height="7" rx="0" fill="#213b3b" stroke="none"/>
+<text x="36" y="42" font-size="12" fill="#213b3b" font-weight="700" text-anchor="start">BR / FINANCE INTELLIGENCE</text>
+<text x="1164" y="42" font-size="11" fill="#64716e" font-weight="400" text-anchor="end">ILLUSTRATIVE DATA  /  SEP 2026</text>
+<line x1="36" y1="60" x2="1164" y2="60" stroke="#e3e7e1" stroke-width="1" stroke-dasharray=""/>
+<text x="36" y="98" font-size="27" fill="#213b3b" font-weight="600" text-anchor="start">Multi-entity management report</text>
+<text x="36" y="123" font-size="12" fill="#64716e" font-weight="400" text-anchor="start">Entity performance, intercompany eliminations and a reconciled group view.</text>
+<rect x="958" y="78" width="206" height="34" rx="3" fill="#f5f6f2" stroke="#e3e7e1"/>
+<text x="1061" y="100" font-size="12" fill="#213b3b" font-weight="400" text-anchor="middle">Sep 2026  ·  INR millions</text>
+<rect x="36" y="148" width="264" height="101" rx="0" fill="#f5f6f2" stroke="none"/>
+<text x="54" y="174" font-size="11" fill="#64716e" font-weight="600" text-anchor="start">GROUP REVENUE</text>
+<text x="54" y="210" font-size="30" fill="#213b3b" font-weight="600" text-anchor="start">₹24.3m</text>
+<text x="54" y="233" font-size="11" fill="#64716e" font-weight="400" text-anchor="start">After ₹2.8m intercompany eliminations</text>
+<rect x="324" y="148" width="264" height="101" rx="0" fill="#f5f6f2" stroke="none"/>
+<text x="342" y="174" font-size="11" fill="#64716e" font-weight="600" text-anchor="start">GROUP EBITDA</text>
+<text x="342" y="210" font-size="30" fill="#213b3b" font-weight="600" text-anchor="start">₹5.6m</text>
+<text x="342" y="233" font-size="11" fill="#386c5b" font-weight="400" text-anchor="start">23.0% EBITDA margin</text>
+<rect x="612" y="148" width="264" height="101" rx="0" fill="#f5f6f2" stroke="none"/>
+<text x="630" y="174" font-size="11" fill="#64716e" font-weight="600" text-anchor="start">REPORTING SCOPE</text>
+<text x="630" y="210" font-size="30" fill="#213b3b" font-weight="600" text-anchor="start">3 entities</text>
+<text x="630" y="233" font-size="11" fill="#64716e" font-weight="400" text-anchor="start">Entity A · Entity B · Entity C</text>
+<rect x="900" y="148" width="264" height="101" rx="0" fill="#f5f6f2" stroke="none"/>
+<text x="918" y="174" font-size="11" fill="#64716e" font-weight="600" text-anchor="start">INTERCOMPANY</text>
+<text x="918" y="210" font-size="30" fill="#213b3b" font-weight="600" text-anchor="start">₹2.8m</text>
+<text x="918" y="233" font-size="11" fill="#386c5b" font-weight="400" text-anchor="start">Revenue and cost eliminations matched</text>
+<text x="36" y="287" font-size="15" fill="#213b3b" font-weight="600" text-anchor="start">Consolidated P&amp;L · September 2026</text>
+<rect x="36" y="305" width="1128" height="29" rx="0" fill="#f5f6f2" stroke="none"/>
+<text x="48" y="324" font-size="11" fill="#64716e" font-weight="600" text-anchor="start">INR millions</text>
+<text x="480" y="324" font-size="11" fill="#64716e" font-weight="600" text-anchor="end">Entity A</text>
+<text x="637" y="324" font-size="11" fill="#64716e" font-weight="600" text-anchor="end">Entity B</text>
+<text x="794" y="324" font-size="11" fill="#64716e" font-weight="600" text-anchor="end">Entity C</text>
+<text x="992" y="324" font-size="11" fill="#64716e" font-weight="600" text-anchor="end">Eliminations</text>
+<text x="1152" y="324" font-size="11" fill="#64716e" font-weight="600" text-anchor="end">Group</text>
+<text x="48" y="356" font-size="12" fill="#213b3b" font-weight="400" text-anchor="start">Revenue</text>
+<text x="480" y="356" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">12.6</text>
+<text x="637" y="356" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">8.4</text>
+<text x="794" y="356" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">6.1</text>
+<text x="992" y="356" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">(2.8)</text>
+<text x="1152" y="356" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">24.3</text>
+<line x1="36" y1="369" x2="1164" y2="369" stroke="#e3e7e1" stroke-width="1" stroke-dasharray=""/>
+<text x="48" y="391" font-size="12" fill="#213b3b" font-weight="400" text-anchor="start">Cost of sales</text>
+<text x="480" y="391" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">(7.4)</text>
+<text x="637" y="391" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">(5.0)</text>
+<text x="794" y="391" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">(3.9)</text>
+<text x="992" y="391" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">2.8</text>
+<text x="1152" y="391" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">(13.5)</text>
+<line x1="36" y1="404" x2="1164" y2="404" stroke="#e3e7e1" stroke-width="1" stroke-dasharray=""/>
+<text x="48" y="426" font-size="12" fill="#213b3b" font-weight="400" text-anchor="start">Gross profit</text>
+<text x="480" y="426" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">5.2</text>
+<text x="637" y="426" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">3.4</text>
+<text x="794" y="426" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">2.2</text>
+<text x="992" y="426" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">—</text>
+<text x="1152" y="426" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">10.8</text>
+<line x1="36" y1="439" x2="1164" y2="439" stroke="#e3e7e1" stroke-width="1" stroke-dasharray=""/>
+<text x="48" y="461" font-size="12" fill="#213b3b" font-weight="400" text-anchor="start">Operating costs</text>
+<text x="480" y="461" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">(2.4)</text>
+<text x="637" y="461" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">(1.6)</text>
+<text x="794" y="461" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">(1.2)</text>
+<text x="992" y="461" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">—</text>
+<text x="1152" y="461" font-size="12" fill="#213b3b" font-weight="400" text-anchor="end">(5.2)</text>
+<line x1="36" y1="474" x2="1164" y2="474" stroke="#e3e7e1" stroke-width="1" stroke-dasharray=""/>
+<rect x="36" y="475" width="1128" height="34" rx="0" fill="#f5f6f2" stroke="none"/>
+<text x="48" y="496" font-size="12" fill="#213b3b" font-weight="600" text-anchor="start">EBITDA</text>
+<text x="480" y="496" font-size="12" fill="#213b3b" font-weight="600" text-anchor="end">2.8</text>
+<text x="637" y="496" font-size="12" fill="#213b3b" font-weight="600" text-anchor="end">1.8</text>
+<text x="794" y="496" font-size="12" fill="#213b3b" font-weight="600" text-anchor="end">1.0</text>
+<text x="992" y="496" font-size="12" fill="#213b3b" font-weight="600" text-anchor="end">—</text>
+<text x="1152" y="496" font-size="12" fill="#213b3b" font-weight="600" text-anchor="end">5.6</text>
+<line x1="36" y1="509" x2="1164" y2="509" stroke="#e3e7e1" stroke-width="1" stroke-dasharray=""/>
+<text x="36" y="562" font-size="15" fill="#213b3b" font-weight="600" text-anchor="start">Entity contribution · pre-elimination revenue</text>
+<text x="36" y="603" font-size="12" fill="#213b3b" font-weight="400" text-anchor="start">Entity A</text>
+<rect x="110" y="590" width="400" height="17" rx="0" fill="#f5f6f2" stroke="none"/>
+<rect x="110" y="590" width="336.0" height="17" rx="0" fill="#213b3b" stroke="none"/>
+<text x="530" y="603" font-size="12" fill="#213b3b" font-weight="400" text-anchor="start">₹12.6m</text>
+<text x="36" y="634" font-size="12" fill="#213b3b" font-weight="400" text-anchor="start">Entity B</text>
+<rect x="110" y="621" width="400" height="17" rx="0" fill="#f5f6f2" stroke="none"/>
+<rect x="110" y="621" width="224.0" height="17" rx="0" fill="#386c5b" stroke="none"/>
+<text x="530" y="634" font-size="12" fill="#213b3b" font-weight="400" text-anchor="start">₹8.4m</text>
+<text x="36" y="665" font-size="12" fill="#213b3b" font-weight="400" text-anchor="start">Entity C</text>
+<rect x="110" y="652" width="400" height="17" rx="0" fill="#f5f6f2" stroke="none"/>
+<rect x="110" y="652" width="162.66666666666666" height="17" rx="0" fill="#8d683e" stroke="none"/>
+<text x="530" y="665" font-size="12" fill="#213b3b" font-weight="400" text-anchor="start">₹6.1m</text>
+<rect x="662" y="540" width="502" height="131" rx="0" fill="#f5f6f2" stroke="none"/>
+<text x="682" y="566" font-size="11" fill="#213b3b" font-weight="600" text-anchor="start">CONSOLIDATION CHECK</text>
+<text x="682" y="594" font-size="12" fill="#213b3b" font-weight="400" text-anchor="start">Entity revenue total</text>
+<text x="1144" y="594" font-size="12" fill="#213b3b" font-weight="600" text-anchor="end">₹27.1m</text>
+<text x="682" y="620" font-size="12" fill="#213b3b" font-weight="400" text-anchor="start">Intercompany revenue eliminated</text>
+<text x="1144" y="620" font-size="12" fill="#213b3b" font-weight="600" text-anchor="end">(₹2.8m)</text>
+<line x1="682" y1="633" x2="1144" y2="633" stroke="#e3e7e1" stroke-width="1" stroke-dasharray=""/>
+<text x="682" y="654" font-size="12" fill="#213b3b" font-weight="600" text-anchor="start">Consolidated group revenue</text>
+<text x="1144" y="654" font-size="13" fill="#213b3b" font-weight="600" text-anchor="end">₹24.3m</text>
+<line x1="36" y1="694" x2="1164" y2="694" stroke="#e3e7e1" stroke-width="1" stroke-dasharray=""/>
+<text x="36" y="719" font-size="11" fill="#64716e" font-weight="400" text-anchor="start">Scope: three illustrative entities · Shared reporting structure · Intercompany balances reconciled</text>
+<text x="1164" y="719" font-size="10" fill="#64716e" font-weight="400" text-anchor="end">BHARAT RANGWANI  /  SAMPLE REPORT</text>
+</g></svg>
